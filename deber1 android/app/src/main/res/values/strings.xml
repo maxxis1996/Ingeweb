@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Deber 1</string>
+    <string name="title_activity_main2">Main2Activity</string>
+    <string name="title_activity_nueva">nueva</string>
+    <string name="title_activity_listar">listar</string>
+    <string name="title_activity_sincronizar">sincronizar</string>
+    <string name="title_activity_camara">camara</string>
+    <string name="title_activity_informacion">informacion</string>
+    <string name="title_activity_dsadsadsada">dsadsadsada</string>
+    <string name="hint1">Ingrese nombre</string>
+    <string name="hint2">Ingrese Apellido</string>
+    <string name="hint3">Ingrese Cédula</string>
+    <string name="btn1">Guardar datos</string>
+    <string name="btn2">Sincronizar</string>
+    <string name="btn3">Activar camara</string>
+    <string name="txtv1">Mostrar listas</string>
+
+</resources>
